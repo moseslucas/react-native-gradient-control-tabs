@@ -1,0 +1,26 @@
+{
+  "name": "react-native-gradient-control-tabs",
+  "version": "1.0.0",
+  "description": "Segment control-tab with gradient style that can be customized easily",
+  "main": "GradientControlTabs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/moseslucas/react-native-gradient-control-tabs.git"
+  },
+  "keywords": [
+    "react-native",
+    "segment",
+    "control-tab",
+    "tabs",
+    "gradient-tab"
+  ],
+  "author": "Moses Lucas",
+  "homepage": "https://github.com/moseslucas/react-native-gradient-control-tabs",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-linear-gradient": "^2.4.2"
+  }
+}
