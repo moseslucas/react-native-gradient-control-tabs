@@ -1,6 +1,6 @@
 {
   "name": "react-native-gradient-control-tabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Segment control-tab with gradient style that can be customized easily",
   "main": "GradientControlTabs.js",
   "scripts": {
